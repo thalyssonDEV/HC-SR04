@@ -1,4 +1,4 @@
-# HC-SR04 Ultrasonic Sensor Documentation
+# HC-SR04 Ultrasonic Sensor
 
 This repository provides comprehensive documentation and example code for the HC-SR04 ultrasonic sensor when interfaced with a Raspberry Pi Pico. The project covers the sensor's pin configuration, wiring instructions, and step-by-step guidance on utilizing the provided code to measure distances.
 
