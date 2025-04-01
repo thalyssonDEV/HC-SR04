@@ -163,7 +163,7 @@ int main() {
 - The `get_reading_sensor` function includes a timeout mechanism to prevent infinite loops if no echo is received. This ensures that the program remains responsive even if the sensor does not detect an object.
 
 ### Range and Accuracy
-- The HC-SR04 sensor typically works within a range of 2 cm to 400 cm. The code filters out readings outside this range as invalid.
+- The HC-SR04 sensor typically works within a range of 1 cm to 400 cm. The code filters out readings outside this range as invalid.
 
 
 ### Flash the Firmware
